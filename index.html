@@ -1,110 +1,194 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="nl">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Watch free TV online with our IPTV player. Live channel streaming, easy to use, no downloads. HD digital TV straight to your browser.">
-  <meta name="keywords" content="iptv player, online tv, live channels, streaming tv, m3u player, iptv list, free tv, watch tv online, tv channels, iptv world">   
-  
-  <title>GM TV : Start your day with GM TV online</title>
-  
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&display=swap">
-  <link rel="stylesheet" href="./css/styles.css">
-  <!-- Favicon -->
-    <link rel="icon" type="image/png" href="./img/gmtv.png">
-    <link rel="apple-touch-icon" href="apple-touch-icon.png">    
-    <link rel="apple-touch-icon" href="./img/icon-192x192.png">
-  <!-- Feather Icons and player libraries -->
-  <script src="https://cdn.jsdelivr.net/npm/hls.js@1.1.4/dist/hls.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/dashjs/dist/dash.all.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mijn Links</title>
+    <!-- Modern Font (Google Fonts) -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <!-- Iconen (FontAwesome) -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <style>
+        /* 1. ALGEMENE INSTELLINGEN */
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Poppins', sans-serif;
+            color: #ffffff;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            
+            /* DE MODERNE GRADIENT ACHTERGROND */
+            background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+            background-size: 400% 400%;
+            animation: gradientBG 15s ease infinite;
+        }
+
+        /* Animatie voor de achtergrond */
+        @keyframes gradientBG {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+
+        /* 2. DE HOOFD CONTAINER (Voor mobiel gecentreerd) */
+        .container {
+            width: 100%;
+            max-width: 400px; /* Niet te breed op desktop */
+            padding: 40px 20px;
+            text-align: center;
+        }
+
+        /* 3. PROFIEL SECTIE */
+        .profile-img {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 4px solid rgba(255, 255, 255, 0.3);
+            margin-bottom: 15px;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+        }
+
+        h1 {
+            font-size: 1.5rem;
+            margin-bottom: 5px;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.2);
+        }
+
+        p.bio {
+            font-size: 0.9rem;
+            opacity: 0.9;
+            margin-bottom: 30px;
+        }
+
+        /* 4. DE A HREF BUTTONS (LINKS) */
+        .link-container {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        .link-btn {
+            position: relative;
+            background: rgba(255, 255, 255, 0.15); /* Glass effect */
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            padding: 16px 20px;
+            border-radius: 50px; /* Ronde 'pill' vorm */
+            text-decoration: none;
+            color: white;
+            font-weight: 600;
+            font-size: 1rem;
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center; /* Tekst in midden */
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        /* Icoontje links in de knop positioneren */
+        .link-btn i {
+            position: absolute;
+            left: 20px;
+            font-size: 1.2rem;
+        }
+
+        /* Hover effecten (Muis eroverheen) */
+        .link-btn:hover {
+            background: rgba(255, 255, 255, 0.3);
+            transform: translateY(-3px) scale(1.02);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+        }
+
+        .link-btn:active {
+            transform: scale(0.98);
+        }
+
+        /* 5. FOOTER */
+        .footer {
+            margin-top: 40px;
+            font-size: 0.75rem;
+            opacity: 0.7;
+        }
+
+        /* Animatie voor het binnenkomen van de knoppen */
+        .fade-in {
+            animation: fadeIn 0.8s ease-in-out forwards;
+            opacity: 0;
+            transform: translateY(20px);
+        }
+
+        @keyframes fadeIn {
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* Vertraging per knop voor een "waterval" effect */
+        .link-btn:nth-child(1) { animation-delay: 0.1s; }
+        .link-btn:nth-child(2) { animation-delay: 0.2s; }
+        .link-btn:nth-child(3) { animation-delay: 0.3s; }
+        .link-btn:nth-child(4) { animation-delay: 0.4s; }
+        
+    </style>
 </head>
 <body>
-<div class="iptv-root">
-  <div class="iptv-player-area" id="iptv-player-area" aria-label="IPTV Player" role="region">
-    <div class="default-playlist-bar" id="default-playlist-bar">
-      <div class="bar-group-left">
-        <button class="theme-btn" id="theme-switch-btn" aria-label="Switch Theme" role="button" title="Switch Theme"><i data-feather="moon"></i></button>
-        <button class="favorite-mode-btn" id="favorite-mode-btn" aria-label="Favorite Mode" role="button" title="Favorite Playlist"><i data-feather="star"></i></button>
-        <button id="history-btn" aria-label="Show Upload History" role="button" title="Playlist Histories"><i data-feather="clock"></i></button>
-        <button id="show-upload-panel-btn" aria-label="Upload Playlist" role="button" title="Upload Playlist"><i data-feather="upload-cloud"></i></button>
-      </div>
-      <div class="bar-group-main">
-        <div class="playlist-dropdown-wrap" id="playlist-dropdown-wrap">
-          <div class="playlist-dropdown-icon" id="playlist-dropdown-current" title="Select Default Playlist"><i data-feather="layers"></i></div>
-          <div class="playlist-dropdown-list" id="playlist-dropdown-list">
-            <button class="playlist-dd-item" data-val="demo1" title="Default Playlist 1"><i data-feather="tv"></i></button>
-            <button class="playlist-dd-item" data-val="demo2" title="Default Playlist 2"><i data-feather="video"></i></button>
-            <button class="playlist-dd-item" data-val="demo3" title="Default Playlist 3"><i data-feather="film"></i></button>
-          </div>
+
+    <div class="container">
+        
+        <!-- JOUW PROFIEL FOTO -->
+        <!-- Vervang de link hieronder met je eigen foto URL -->
+        <img src="https://images.seeklogo.com/logo-png/55/2/turk-bayragi-yuvarlak-logo-png_seeklogo-556177.png" alt="Profiel Foto" class="profile-img fade-in">
+        
+        <!-- NAAM & BESCHRIJVING -->
+        <h1 class="fade-in">Turis Tv</h1>
+ 
+
+        <!-- DE LINKS -->
+        <div class="link-container">
+            
+            <!-- Link 1 -->
+            <a href="player/index/htm" target="_blank" class="link-btn fade-in">
+                <i class="fa-solid fa-turkey"></i> player
+            </a>
+
+            <!-- Link 2 -->
+            <a href="https://www.tiktok.com" target="_blank" class="link-btn fade-in">
+                <i class="fa-solid fa-turkey"></i> TikTok
+            </a>
+
+            <!-- Link 3 -->
+            <a href="https://jouwwebsite.nl" target="_blank" class="link-btn fade-in">
+               <i class="fa-solid fa-turkey"></i> Bezoek mijn Website
+            </a>
+
+            <!-- Link 4 -->
+            <a href="mailto:email@voorbeeld.nl" class="link-btn fade-in">
+                <i class="fa-solid fa-turkey"></i> Contact Opnemen
+            </a>
+
+            <!-- Link 5 -->
+            <a href="https://wa.me/31612345678" target="_blank" class="link-btn fade-in">
+                <i class="fa-solid fa-turkey"></i> WhatsApp Mij
+            </a>
+
         </div>
-      </div>
-      <div class="bar-group-right">
-        <button class="default-playlist-btn" id="show-playlist-slider-btn" aria-label="Show Channel List" role="button" title="Show Playlist">
-          <i data-feather="list"></i>
-        </button>
-      </div>
-    </div>
-    <div class="player-container" id="player-container">
-      <video id="video-player" controls
-        aria-label="Video Player"
-        poster="./img/player-poster.png"></video>
-      <div class="notice-overlay fade-enter fade-enter-active" id="notice-overlay" aria-live="polite">
-        <div id="notice-text-msg"></div>
-        <div class="notice-actions" id="notice-actions"></div>
-      </div>
-      <div class="loading-overlay" id="loading-overlay" style="display:none;">
-        <div class="spinner" aria-label="Loading"></div>
-        <p id="loading-text">Loading...</p>
-      </div>
-      <div class="snackbar" id="snackbar"></div>
-      <div class="player-controls">
-        <button class="control-btn" id="play-pause-btn" aria-label="Play/Pause" role="button"><i data-feather="play"></i></button>
-        <button class="control-btn" id="mute-btn" aria-label="Mute/Unmute" role="button"><i data-feather="volume-2"></i></button>
-        <input type="range" id="volume-slider" min="0" max="1" step="0.05" value="1" style="width:70px;margin-right:8px;" aria-label="Volume slider">
-        <div class="channel-info-flex">
-          <div class="channel-title" id="current-channel"></div>
-          <div class="channel-status" id="player-status"></div>
+
+        <div class="footer fade-in">
+            &copy; 2026 Turis Tv. 
         </div>
-        <button class="control-btn fullscreen-btn" id="fullscreen-btn" aria-label="Fullscreen" role="button"><i data-feather="maximize"></i></button>
-      </div>
+
     </div>
-    <div class="upload-panel-bg" id="upload-panel-bg">
-      <form class="upload-panel" id="upload-panel" autocomplete="off" onsubmit="return false;" aria-label="Upload playlist panel">
-        <button class="panel-close" id="close-upload-panel-btn" aria-label="Close upload panel" role="button"><i data-feather="x"></i></button>
-        <h2><i data-feather="upload"></i> Upload Playlist</h2>
-        <label for="file-upload-input" class="file-upload-label" id="file-upload-label" aria-label="Upload playlist file">
-          <i data-feather="file-text"></i> Choose File (m3u, txt, json, mpd, hls, ts, mp4, m3u8)
-        </label>
-        <input type="file" id="file-upload-input" accept=".m3u,.txt,.json,.mpd,.hls,.ts,.mp4,.m3u8,application/json,video/mp4,application/x-mpegURL,.ts,.hls" />
-        <div class="upload-drop-info">or drag & drop here</div>
-        <div class="or-upload">Or Enter Playlist/Media URL</div>
-        <div class="url-upload-group">
-          <input id="url-upload-input" class="url-upload-input" type="text" placeholder="http://...m3u8 / .ts / .mp4 / .mpd" aria-label="Playlist or media URL">
-          <button class="url-upload-btn" id="upload-url-btn" type="submit"><i data-feather="play-circle"></i> Load</button>
-        </div>
-        <div class="big-upload-progress" id="upload-progress-bar" style="display:none;"><div class="bar" id="upload-progress-bar-fill"></div></div>
-      </form>
-    </div>
-    <div id="history-modal-bg">
-      <div id="history-modal" aria-label="Upload History">
-        <h2><i data-feather="clock"></i> Upload History</h2>
-        <div class="history-list" id="history-list"></div>
-        <button class="bulkbtn" id="clear-all-history"><i data-feather="trash-2"></i> Clear All Upload History</button>
-      </div>
-    </div>
-  </div>
-  <div class="playlist-slider" id="playlist-slider">
-    <div class="playlist-header">
-      <div class="playlist-header-main">
-        <h3><i data-feather="tv"></i> Channel List</h3>
-        <span class="playlist-counts" id="playlist-counts"></span>
-      </div>
-      <button class="close-slider-btn" id="close-playlist-slider-btn" aria-label="Close playlist slider" role="button"><i data-feather="x"></i></button>
-    </div>
-    <div class="channels-list" id="channels-list"></div>
-  </div>
-</div>
-<script src="./js/iptv.js"></script>
+
 </body>
 </html>
