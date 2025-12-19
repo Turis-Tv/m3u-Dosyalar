@@ -1,0 +1,497 @@
+#EXTM3U
+
+
+
+
+
+ #EXTINF:-1 group-title="|Ulusal|",Trt 1 
+https://tv-trt1.medya.trt.com.tr/master.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Trt 1
+https://trt.daioncdn.net/trt-1/master.m3u8?app=web 
+ #EXTINF:-1 group-title="|Ulusal|",Trt 1
+http://116.202.238.88/TRT1_TR/index.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Trt 1
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20484 
+ #EXTINF:-1 group-title="|Ulusal|",Trt 1
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/358053 
+ #EXTINF:-1 group-title="|Ulusal|",Trt 1
+https://streams.uzunmuhalefet.com/stream/535f4f5a-3ffa-4919-bb5d-5d31024c9237.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Trt 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Trt 1
+http://87.246.54.249:8080/TRT1/index.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Trt 1
+https://trt.daioncdn.net/trt-1/master.m3u8?app=web 
+
+ #EXTINF:-1 group-title="|Ulusal|",Tabii 1
+https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=7uqvag61gnys&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2 
+
+
+ #EXTINF:-1 group-title="|Ulusal|",Atv
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Atv
+http://65.108.239.207/atv/index.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Atv
+http://87.246.54.249:8080/ATV/index.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Atv
+http://116.202.238.88/ATV_TR/index.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Atv
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Atv
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Atv
+http://stream.tvcdn.net/ulusal/atv.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Atv
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6266 
+ #EXTINF:-1 group-title="|Ulusal|",Atv
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192065 
+ #EXTINF:-1 group-title="|Ulusal|",Atv
+http://89.187.191.41/ATV-HD-TR/video.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Atv
+http://95.174.71.114:80/TR-ATV/index.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Atv
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Atv
+http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8 
+
+ #EXTINF:-1 group-title="|Ulusal|",Atv Eu
+http://162.212.179.33/dvrfl05/gin-atvavrupa/playlist.m3u8 
+
+
+
+ #EXTINF:-1 group-title="|Ulusal|",Kanal D
+https://tatatam.trt1sultanfatihss.workers.dev/https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Kanal D
+http://stream.tvcdn.net/ulusal/kanal-d.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Kanal D
+https://streams.uzunmuhalefet.com/stream/6bdc8fb5-3e82-4b44-a0b1-6ab9fdc35d3f.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Kanal D
+https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Kanal D
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6275 
+ #EXTINF:-1 group-title="|Ulusal|",Kanal D
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Kanal D
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192068 
+ #EXTINF:-1 group-title="|Ulusal|",Kanal D
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Kanal D
+http://95.174.71.114:80/TR-KANAL-D/index.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Kanal D
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3 
+ #EXTINF:-1 group-title="|Ulusal|",Kanal D
+http://87.246.54.249:8080/KanalD/index.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Kanal D
+http://116.202.238.88/KANALD_TR/index.m3u8
+
+ #EXTINF:-1 group-title="|Ulusal|",Euro D
+https://viamotionhsi.netplus.ch/live/eds/eurod/browser-HLS8/eurod.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Euro D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Euro D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Euro D
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/102083","logo 
+ #EXTINF:-1 group-title="|Ulusal|",Euro D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8 
+
+ #EXTINF:-1 group-title="|Ulusal|",Star Tv
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=7w0v4blzrjky&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=M3U8 
+ #EXTINF:-1 group-title="|Ulusal|",Star Tv
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6270 
+ #EXTINF:-1 group-title="|Ulusal|",Star Tv
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192066 
+ #EXTINF:-1 group-title="|Ulusal|",Star Tv
+http://95.174.71.114:80/TR-STAR/index.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Star Tv
+http://66.160.192.241/startvturk/index.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Star Tv
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8
+ #EXTINF:-1 group-title="|Ulusal|",Star Tv
+http://95.174.71.114/TR-STAR/index.m3u8
+ #EXTINF:-1 group-title="|Ulusal|",Star Tv
+http://dygvideo.dygdigital.com/live/hls/stardai?m3u8
+ #EXTINF:-1 group-title="|Ulusal|",Star Tv
+http://87.246.54.249:8080/StarTV/index.m3u8
+ #EXTINF:-1 group-title="|Ulusal|",Star Tv
+http://116.202.238.88/STARTV_TR/index.m3u8
+ 
+ 
+ 
+ #EXTINF:-1 group-title="|Ulusal|",Eu Star
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
+ 
+ 
+
+ #EXTINF:-1 group-title="|Ulusal|",Show Türk
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
+ 
+
+ #EXTINF:-1 group-title="|Ulusal|",Show Max
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
+ #EXTINF:-1 group-title="|Ulusal|",Show Max
+http://95.174.71.114:80/TR-SHOW-MAX/index.m3u8
+ #EXTINF:-1 group-title="|Ulusal|",Show Max
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
+
+ 
+
+ #EXTINF:-1 group-title="|Ulusal|",Show Tv
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
+ #EXTINF:-1 group-title="|Ulusal|",Show Tv
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
+ #EXTINF:-1 group-title="|Ulusal|",Show Tv
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6273
+ #EXTINF:-1 group-title="|Ulusal|",Show Tv
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192067
+ #EXTINF:-1 group-title="|Ulusal|",Show Tv
+http://95.174.71.114:80/TR-SHOW/index.m3u8
+ #EXTINF:-1 group-title="|Ulusal|",Show Tv
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
+ #EXTINF:-1 group-title="|Ulusal|",Show Tv
+http://66.160.192.241/showtv/index.m3u8
+ #EXTINF:-1 group-title="|Ulusal|",Show Tv
+http://116.202.238.88/SHOWTV_TR/index.m3u8
+
+ 
+
+ #EXTINF:-1 group-title="|Ulusal|",Kanal Avrupa
+https://trn03.tulix.tv/gt-kanalavrupa/index.m3u8
+ 
+
+
+ #EXTINF:-1 group-title="|Ulusal|",Now Tv
+http://stream.tvcdn.net/ulusal/now-tv.m3u8
+ #EXTINF:-1 group-title="|Ulusal|",Now Tv
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+ #EXTINF:-1 group-title="|Ulusal|",Now Tv
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6276
+ #EXTINF:-1 group-title="|Ulusal|",Now Tv
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/358052
+ #EXTINF:-1 group-title="|Ulusal|",Now Tv
+http://87.246.54.249:8080/NOW/index.m3u8
+ #EXTINF:-1 group-title="|Ulusal|",Now Tv
+http://116.202.238.88/FOXTV_TR/index.m3u8
+ #EXTINF:-1 group-title="|Ulusal|",Now Tv
+http://95.174.71.114:80/TR-FOX/index.m3u8
+ #EXTINF:-1 group-title="|Ulusal|",Now Tv
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+ #EXTINF:-1 group-title="|Ulusal|",Now Tv
+http://66.160.192.241/foxturk/index.m3u8
+ 
+ 
+
+ 
+ #EXTINF:-1 group-title="|Ulusal|",Tv 8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
+ #EXTINF:-1 group-title="|Ulusal|",Tv 8
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20742
+ #EXTINF:-1 group-title="|Ulusal|",Tv 8
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192072
+ #EXTINF:-1 group-title="|Ulusal|",Tv 8
+http://89.187.191.41/TV8-HD-TR/video.m3u8
+ #EXTINF:-1 group-title="|Ulusal|",Tv 8
+http://95.174.71.114:80/TR-TV8/index.m3u8
+ #EXTINF:-1 group-title="|Ulusal|",Tv 8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
+ #EXTINF:-1 group-title="|Ulusal|",Tv 8
+http://87.246.54.249:8080/TV8/index.m3u8
+ #EXTINF:-1 group-title="|Ulusal|",Tv 8
+http://116.202.238.88/TV8_TR/index.m3u8
+
+ 
+ #EXTINF:-1 group-title="|Ulusal|",Tv 8,5
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
+ #EXTINF:-1 group-title="|Ulusal|",Tv 8,5
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6281
+ #EXTINF:-1 group-title="|Ulusal|",Tv 8,5
+http://65.108.239.207/tv85/index.m3u8
+ #EXTINF:-1 group-title="|Ulusal|",Tv 8,5
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
+
+ #EXTINF:-1 group-title="|Ulusal|",A2
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+ #EXTINF:-1 group-title="|Ulusal|",A2
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6268
+ #EXTINF:-1 group-title="|Ulusal|",A2
+http://89.187.191.41/A2-HD-TR/video.m3u8
+ #EXTINF:-1 group-title="|Ulusal|",A2
+http://95.174.71.114:80/TR-A2/index.m3u8
+ #EXTINF:-1 group-title="|Ulusal|",A2
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+ #EXTINF:-1 group-title="|Ulusal|",A2
+http://116.202.238.88/A2_TR/index.m3u8
+ 
+
+ #EXTINF:-1 group-title="|Ulusal|",Tabii Tv
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
+
+
+ 
+ #EXTINF:-1 group-title="|Ulusal|",Kanal 7
+https://yurhnwtpys.turknet.ercdn.net/cvmbjbpmdx/kanal7/kanal7.m3u8
+ #EXTINF:-1 group-title="|Ulusal|",Kanal 7
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6278
+ #EXTINF:-1 group-title="|Ulusal|",Kanal 7
+http://95.174.71.114:80/TR-KANAL-7/index.m3u8
+ #EXTINF:-1 group-title="|Ulusal|",Kanal 7
+https://yurhnwtpys.turknet.ercdn.net/cvmbjbpmdx/kanal7/kanal7.m3u8
+ #EXTINF:-1 group-title="|Ulusal|",Kanal 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+ #EXTINF:-1 group-title="|Ulusal|",Kanal 7
+http://87.246.54.249:8080/Kanal7/index.m3u8
+ #EXTINF:-1 group-title="|Ulusal|",Kanal 7
+http://116.202.238.88/KANAL7_TR/index.m3u8
+ 
+
+ #EXTINF:-1 group-title="|Ulusal|",Kanal 7 Eu
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8 
+
+ 
+ #EXTINF:-1 group-title="|Ulusal|",Beyaz Tv
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Beyaz Tv
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/439458 
+ #EXTINF:-1 group-title="|Ulusal|",Beyaz Tv
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Beyaz Tv
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6277 
+ #EXTINF:-1 group-title="|Ulusal|",Beyaz Tv
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Beyaz Tv
+http://95.174.71.114:80/TR-BEYAZ/index.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Beyaz Tv
+http://87.246.54.249:8080/BeyazTV/index.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Beyaz Tv
+http://116.202.238.88/BEYAZTV_TR/index.m3u8 
+
+
+ 
+ #EXTINF:-1 group-title="|Ulusal|",Tv 360
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Tv 360
+http://95.174.71.114:80/TR-TV-360/index.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Tv 360
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Tv 360
+https://tv.ensonhaber.com/tv360/tv360.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Tv 360
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8 
+ 
+ 
+ #EXTINF:-1 group-title="|Ulusal|",Trt türk
+https://tv-trtturk.medya.trt.com.tr/master.m3u8 
+
+ #EXTINF:-1 group-title="|Ulusal|",Trt Avaz
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8  
+
+ #EXTINF:-1 group-title="|Ulusal|",Trt 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8  
+ #EXTINF:-1 group-title="|Ulusal|",Trt 2
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/186242 
+ #EXTINF:-1 group-title="|Ulusal|",Trt 2
+http://87.246.54.249:8080/TRT2/index.m3u8 
+ #EXTINF:-1 group-title="|Ulusal|",Trt 2
+http://95.174.71.114:80/TR-TRT2/index.m3u8 
+ 
+ #EXTINF:-1 group-title="|Ulusal|",Trt Erba
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6091  
+
+
+ #EXTINF:-1 group-title="|Ulusal|",Luys Tvhttp://yrtds0911.xyz:8080/dlk1926/dlk.1926/186268  
+ 
+
+ #EXTINF:-1 group-title="|Ulusal|",Kanal Plus
+https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/chunks.m3u8  
+
+ #EXTINF:-1 group-title="|Ulusal|",Urfanatik Tv
+https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/chunks.m3u8  
+ 
+ #EXTINF:-1 group-title="|Ulusal|",Ton Tv
+https://live.artidijitalmedya.com/artidijital_tontv/tontv/chunks.m3u8  
+ 
+ #EXTINF:-1 group-title="|Ulusal|",Anadolu Net
+https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/chunks.m3u8 
+ 
+ #EXTINF:-1 group-title="|Ulusal|",Erciyes Tv
+https://live.artidijitalmedya.com/artidijital_erciyestv/erciyestv/chunks.m3u8  
+ 
+ #EXTINF:-1 group-title="|Ulusal|",Grt1https://live.artidijitalmedya.com/artidijital_grt/grt1/chunks.m3u8  
+ 
+ #EXTINF:-1 group-title="|Ulusal|",Kay Tv
+https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/chunks.m3u8  
+ 
+ #EXTINF:-1 group-title="|Ulusal|",Deniz Postasi
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+ 
+ #EXTINF:-1 group-title="|Ulusal|",Ertv Tv
+https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/chunks.m3u8  
+
+ #EXTINF:-1 group-title="|Ulusal|",Kanal Z
+https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/chunks.m3u8 
+
+ #EXTINF:-1 group-title="|Ulusal|",E Tv
+https://live.artidijitalmedya.com/artidijital_etv/etv/chunks.m3u8 
+
+ #EXTINF:-1 group-title="|Ulusal|",Kentturk Tv
+https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/chunks.m3u8 
+
+ #EXTINF:-1 group-title="|Ulusal|",Konya Olay Tv
+https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/chunks.m3u8
+
+ #EXTINF:-1 group-title="|Ulusal|",World Türk Tv
+https://live.artidijitalmedya.com/artidijital_worldturk/worldturk/chunks.m3u8  
+
+ #EXTINF:-1 group-title="|Ulusal|",Kanal 3
+https://live.artidijitalmedya.com/artidijital_etv/etv/chunks.m3u8
+
+ #EXTINF:-1 group-title="|Ulusal|",Kanal 26
+https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8
+
+ #EXTINF:-1 group-title="|Ulusal|",Kanal 58
+https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/chunks.m3u8
+
+ #EXTINF:-1 group-title="|Ulusal|",Sunr Tv
+https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/chunks.m3u8
+
+
+
+
+ #EXTINF:-1 group-title="|Radyo|",ARABESK
+https://canli.arabeskinmerkezi.com/9180/stream
+ #EXTINF:-1 group-title="|Radyo|",ARABESK FM
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194692
+ #EXTINF:-1 group-title="|Radyo|",ARABESK
+https://canli.arabeskinmerkezi.com/9180/stream
+ #EXTINF:-1 group-title="|Radyo|",Damar Fm
+http://104.238.23.182/yt1/s/damarfm.m3u8
+ #EXTINF:-1 group-title="|Radyo|",Radyo 45
+http://104.238.23.182/yt1/s/radyo45lik.m3u8
+
+ #EXTINF:-1 group-title="|Radyo|",Akustik Türkü
+http://104.238.23.182/yt1/s/akustikturkuler.m3u8
+
+
+ #EXTINF:-1 group-title="|Radyo|",Radyo 7
+http://104.238.23.182/yt1/s/radyo7.m3u8
+ #EXTINF:-1 group-title="|Radyo|",Slow Türk
+http://104.238.23.182/yt1/s/slowturk.m3u8
+ #EXTINF:-1 group-title="|Radyo|",Karadeniz
+http://104.238.23.182/yt1/s/karadenizakustik.m3u8
+ #EXTINF:-1 group-title="|Radyo|",Romantik
+http://104.238.23.182/yt1/s/RomanticBallads.m3u8
+
+ #EXTINF:-1 group-title="|Radyo|",Rock
+http://104.238.23.182/yt1/s/krock.m3u8
+
+
+
+ #EXTINF:-1 group-title="|Radyo|",SLOW KARADENIZ FM
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194682
+ #EXTINF:-1 group-title="|Radyo|",RADYO SEVIMLI
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194683
+ #EXTINF:-1 group-title="|Radyo|",GEBZE FM
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194684
+ #EXTINF:-1 group-title="|Radyo|",ARABESK FM 
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194692
+ #EXTINF:-1 group-title="|Radyo|",ASK FM ANKARA 
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194696
+ #EXTINF:-1 group-title="|Radyo|",MERKEZ FM 
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194701
+ #EXTINF:-1 group-title="|Radyo|",RADYO 37 
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194702
+ #EXTINF:-1 group-title="|Radyo|",MAGIC FM 
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194703
+ #EXTINF:-1 group-title="|Radyo|",RADYO 38 
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194707
+ #EXTINF:-1 group-title="|Radyo|",ROMANTIK TURK
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194711
+ #EXTINF:-1 group-title="|Radyo|",AFYON ARMONI FM
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194722
+ #EXTINF:-1 group-title="|Radyo|",ANTAKYA RADYO RENK
+url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194723
+ #EXTINF:-1 group-title="|Radyo|",BILECIK FM
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194725
+ #EXTINF:-1 group-title="|Radyo|",DOST FM ANKARA
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194731
+ #EXTINF:-1 group-title="|Radyo|",ELAZIG RADYO KENT
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194734
+ #EXTINF:-1 group-title="|Radyo|",ELBISTAN RADYO UMUT
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194735
+ #EXTINF:-1 group-title="|Radyo|",ERZINCAN INCITEK FM
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194738
+ #EXTINF:-1 group-title="|Radyo|",ERZINCAN RADYO TEK
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194739
+ #EXTINF:-1 group-title="|Radyo|",ERZURUM RADYO RITM
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194740
+ #EXTINF:-1 group-title="|Radyo|",GEBZE GUL FM
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194741
+ #EXTINF:-1 group-title="|Radyo|",GENC RADYO KONYA
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194742
+ #EXTINF:-1 group-title="|Radyo|",HATAY AKDENIZ FM
+url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194745
+ #EXTINF:-1 group-title="|Radyo|",HATAY SHOW RADYO
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194746
+ #EXTINF:-1 group-title="|Radyo|",ISRA FM
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194748
+ #EXTINF:-1 group-title="|Radyo|",IZMIR CAN RADYO
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194749
+ #EXTINF:-1 group-title="|Radyo|",KAY RADYO KAYSERI
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194751
+ #EXTINF:-1 group-title="|Radyo|",KAYSERI 38 KENT FM
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194752
+ #EXTINF:-1 group-title="|Radyo|",KIZILTEPE RADYO ZERGAN
+url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194754
+ #EXTINF:-1 group-title="|Radyo|",KONYA RADYO EN
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194755
+ #EXTINF:-1 group-title="|Radyo|",KONYA TIRYAKI FM
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194756
+ #EXTINF:-1 group-title="|Radyo|",MALATYA RADYO IMPARATOR
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194758
+ #EXTINF:-1 group-title="|Radyo|",NIGDE FM
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194763
+ #EXTINF:-1 group-title="|Radyo|",OSMANIYE RADYO 80
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194764
+ #EXTINF:-1 group-title="|Radyo|",RADYO 08
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194766
+ #EXTINF:-1 group-title="|Radyo|",RADYO 13
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194767
+ #EXTINF:-1 group-title="|Radyo|",RADYO 81
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194771
+ #EXTINF:-1 group-title="|Radyo|",RADYO FLASH AYDIN
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194773
+ #EXTINF:-1 group-title="|Radyo|",RADYO IZMIR FM
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194774
+ #EXTINF:-1 group-title="|Radyo|",RADYO ULKU
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194777
+ #EXTINF:-1 group-title="|Radyo|",RADYO YUKSEL
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194778
+ #EXTINF:-1 group-title="|Radyo|",TEKIRDAG YILDIZ FM
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194781
+ #EXTINF:-1 group-title="|Radyo|",TUNCELI RADYO MUNZUR
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194785
+ #EXTINF:-1 group-title="|Radyo|",UMUT FM
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194787
+ #EXTINF:-1 group-title="|Radyo|",ULKU FM
+http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194788
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
